@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="action_settings">Nastavitve</string>
+    <string name="app_name">ZivjoSvet</string>
+    <string name="hello_world">Živjo, svet!</string>
+
+</resources>
